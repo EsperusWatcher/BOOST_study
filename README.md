@@ -1,2 +1,8 @@
+### What is this?
+
 Small projects made using different boost libraries
-The sole purpose of this repository is to learn boost and practice my C++ skills
+
+### What for?
+
+1. Learn boost libraries
+2. C++ practice
